@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #222222;
+}
+
+$("#aaa").css('font-family' ,'Arial')
+div{border:1px red;}
+label{font-family:arial; font-size:.8em;}
+input{border:none;}
+input:focus{outline:none;}

@@ -27,3 +27,7 @@
 3. Write javascript function when user type text inside the input text and click the "Add" 
     button it will add the text to the ul elemtn as li
 */
+<script type="text/javascript" src="MohammadMasaid.html">
+function insertText () {
+    document.getElementById('pa').innerHTML = "Some text to enter";
+}
